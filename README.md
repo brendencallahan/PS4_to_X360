@@ -26,10 +26,8 @@ $ cd PS4_to_X360
 $ vim PS4_to_X360.sh
 `
    
-`
-1. 
-2. 
-3. .......... dev/input/28 change to -> dev/input/YOURID
+` 
+line 3 & 5. .......... dev/input/event28 change to -> dev/input/eventYOURID
 ` 
   
   
