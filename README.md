@@ -4,6 +4,10 @@
 
 Default mappings for PS4 to Xbox 360 controller using xboxdrv. (Ensure you edit .sh file to have your device name)
 
+`
+$ sudo apt install xboxdrv evtest
+`  
+  
 
 `
 $ git clone https://github.com/brendencallahan/PS4_to_X360
