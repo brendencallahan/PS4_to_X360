@@ -17,14 +17,27 @@ $ git clone https://github.com/brendencallahan/PS4_to_X360
 $ cd PS4_to_X360
 `  
 
-`
-$ chmod u+x PS4_to_X360.sh
-`
   
 `
  $ sudo evtest (take note of device id and edit it into the script file)
 `  
+  
+`
+$ vim PS4_to_X360.sh
+`
+   
+`
+1. 
+2. 
+3. .......... dev/input/28 change to -> dev/input/YOURID
+` 
+  
+  
+`
+$ chmod u+x PS4_to_X360.sh
+`
 
+  
 `
 $ ./PS4_to_X360
 `
